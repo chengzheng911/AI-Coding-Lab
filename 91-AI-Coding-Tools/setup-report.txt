@@ -1,0 +1,44 @@
+﻿AI Coding Setup Checker Report
+Generated: 2026-10-09 11:27:01
+Machine: CHENG
+
+[INFO] Operating System
+Details: Microsoft Windows NT 10.0.26200.0
+
+[PASS] Git
+Details: git version 2.56.0.windows.1
+
+[PASS] Python
+Details: Python 3.10.15
+
+[PASS] Python Launcher
+Details: Python 3.13.0
+
+[PASS] Node.js
+Details: v14.17.3
+
+[PASS] npm
+Details: 6.14.13
+
+[PASS] Flutter
+Details: Installed; version output unavailable
+
+[PASS] VS Code CLI
+Details: 1.140.0
+
+[MISSING] Codex CLI
+Details: Command not found: codex
+Next step: Install Codex CLI only if required by your service.
+
+[MISSING] Claude Code
+Details: Command not found: claude
+Next step: Install Claude Code only if required by your service.
+
+[INFO] OPENAI_API_KEY configured
+Details: Not found in this PowerShell process.
+Next step: Configure it only if your workflow requires this API.
+
+[INFO] ANTHROPIC_API_KEY configured
+Details: Not found in this PowerShell process.
+Next step: Configure it only if your workflow requires this API.
+
